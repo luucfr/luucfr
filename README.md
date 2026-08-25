@@ -1,16 +1,24 @@
-<h2>Salut !</h2>
+## Salut 👋
 
-<h3>👨🏻‍💻 &nbsp;À propos de moi</h3>
+Administrateur Systèmes, Réseaux et DevOps — Linux, virtualisation, réseau et
+automatisation d'infrastructures on-prem et cloud, en multi-sites / multi-clients.
 
-- <img height="20em" src="https://img.icons8.com/external-others-pike-picture/512/external-VR-Games-geek-others-pike-picture.png" /> &nbsp; Explorer les nouvelles technologies et développer des solutions de déploiement rapides.
-- <img height="20em" src="https://img.icons8.com/office/512/diploma.png" /> &nbsp; Administrateur d'infrastructures sécurisé (AIS).
-- <img height="20em" src="https://img.icons8.com/color/512/docker.png" /> &nbsp; Docker / Docker Swarm
-- <img height="20em" src="https://img.icons8.com/color/512/kubernetes.png" /> &nbsp; Kubernetes
+- 🎓 Administrateur Systèmes DevOps (ASD) · TSSR · TAI
+- 🖥️ Proxmox, VMware, Hyper-V — migrations et archi HA
+- ☸️ Docker, Kubernetes / K3S
+- 🔧 Terraform, Ansible, CI/CD GitLab & GitHub Actions
+- 🌐 UniFi, pfSense, Stormshield, WireGuard, IPSec, BGP
+- 📊 Zabbix, Prometheus / Grafana
+- 🤖 Serveurs multi-GPU on-prem orchestrés sous Kubernetes
 
+🔗 [cv.luuc.fr](https://cv.luuc.fr)
 
+### Stack
 
-<br/>
-
-<a href="https://github.com/luucfr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luucfr&theme=buefy&show_icons=true" />
-</a> 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
